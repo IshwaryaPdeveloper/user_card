@@ -5,11 +5,11 @@ A responsive and reusable User Card component built with React and styled using 
 
 🔧 Features:
 
-Built using React functional components
+* Built using React functional components
 
-Supports dynamic rendering of fields (e.g., name, age, email, etc.)
+* Supports dynamic rendering of fields (e.g., name, age, email, etc.)
 
-Accepts data via props or fetched dynamically via API/state
+* Accepts data via props or fetched dynamically via API/state
 
-Responsive and styled using clean CSS
+* Responsive and styled using clean CSS
 
